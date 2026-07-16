@@ -1,1 +1,67 @@
-
+[
+  {
+    "id": "clay",
+    "type": "start",
+    "number": 0,
+    "title": "CLAY Keramikmuseum",
+    "artist": "",
+    "year": null,
+    "location": "Kongebrovej 42, 5500 Middelfart",
+    "lat": 55.5077509,
+    "lng": 9.7201635,
+    "text": "Her begynder turen. Tag dig god tid – det er hele pointen.",
+    "maps_url": "https://maps.app.goo.gl/AfzGZpgNbpxmHp7B8?g_st=ic"
+  },
+  {
+    "id": "altings-toeven",
+    "type": "artwork",
+    "number": 1,
+    "title": "Altings tøven",
+    "artist": "Per Ahlmann",
+    "year": 2017,
+    "location": "Vestre Kirkegård",
+    "lat": 55.509,
+    "lng": 9.715,
+    "text": "Foreløbig tekst. Den præcise placering skal kontrolleres ud fra det delte kortlink.",
+    "maps_url": "https://maps.app.goo.gl/8hmEXx7BMGceXriw7?g_st=ic"
+  },
+  {
+    "id": "krukke",
+    "type": "artwork",
+    "number": 2,
+    "title": "Krukke",
+    "artist": "Gunhild Rudjord",
+    "year": null,
+    "location": "Vestre Kirkegård",
+    "lat": 55.5092,
+    "lng": 9.7157,
+    "text": "Foreløbig tekst. Den præcise placering skal kontrolleres ud fra det delte kortlink.",
+    "maps_url": "https://maps.app.goo.gl/XHXMeughiWVv6e9r7?g_st=ic"
+  },
+  {
+    "id": "rook-takes-bishop",
+    "type": "artwork",
+    "number": 3,
+    "title": "Rook takes Bishop",
+    "artist": "Magne Furuholmen",
+    "year": 2017,
+    "location": "Middelfart Kirke",
+    "lat": 55.5058,
+    "lng": 9.7327,
+    "text": "Foreløbig tekst. Den præcise placering skal kontrolleres ud fra det delte kortlink.",
+    "maps_url": "https://maps.app.goo.gl/HL87HiyHT45Kd46t8?g_st=ic"
+  },
+  {
+    "id": "skulpturgruppe",
+    "type": "artwork",
+    "number": 4,
+    "title": "Skulpturgruppe",
+    "artist": "Betty Engholm",
+    "year": 2000,
+    "location": "Nytorv, Middelfart Rådhus",
+    "lat": 55.5054,
+    "lng": 9.7288,
+    "text": "Foreløbig tekst. Den præcise placering skal kontrolleres ud fra det delte kortlink.",
+    "maps_url": "https://maps.app.goo.gl/nM9QiSpkNF1pz5Lb9?g_st=ic"
+  }
+]
