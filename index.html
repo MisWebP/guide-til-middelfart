@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guide til Middelfart – Keramikruten</title>
+  <meta name="description" content="En personlig guide til kunst, kultur og små omveje i Middelfart.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <p class="eyebrow">Guide til Middelfart</p>
+    <h1>Keramikruten</h1>
+    <p class="intro">
+      Tolv keramiske værker, en god gåtur og rigelig tid til at kigge op.
+      Vi begynder ved CLAY og bevæger os gennem byen i et roligt tempo.
+    </p>
+    <div class="facts">
+      <span>12 stop</span>
+      <span>Start ved CLAY</span>
+      <span>For kulturfolk med god tid</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="map-section">
+      <div id="map" aria-label="Kort over Keramikruten i Middelfart"></div>
+      <p class="note">
+        De første stop er indsat. Placeringerne skal kvalitetssikres, før siden offentliggøres.
+      </p>
+    </section>
+
+    <section class="stops-section">
+      <h2>Stop på ruten</h2>
+      <div id="stop-list" class="stop-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>En personlig guide til Middelfart – lavet med nysgerrighed på kunst, kultur og gode pauser.</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
