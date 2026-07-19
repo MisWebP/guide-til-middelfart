@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Elisabeth Tejlmand</title>
+  <desc id="desc">Diskret portræt-plads til Om-siden.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#173038"/>
+      <stop offset="1" stop-color="#007b7b"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffdf8" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#d9f1ef" stop-opacity=".82"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="650" cy="120" r="230" fill="#02a0a0" opacity=".16"/>
+  <circle cx="90" cy="880" r="270" fill="#ffbd65" opacity=".18"/>
+  <path fill="#fffdf8" opacity=".12" d="M0 780c125-62 243-80 354-54 122 29 221 15 298-41 54-39 103-56 148-51v366H0Z"/>
+  <g transform="translate(160 198)">
+    <circle cx="240" cy="156" r="118" fill="url(#light)" opacity=".92"/>
+    <path fill="url(#light)" opacity=".92" d="M72 586c20-155 84-232 168-232s148 77 168 232c7 52-35 98-88 98H160c-53 0-95-46-88-98Z"/>
+  </g>
+  <text x="400" y="822" text-anchor="middle" fill="#fffdf8" font-family="Georgia, 'Times New Roman', serif" font-size="76">Elisabeth</text>
+  <text x="400" y="898" text-anchor="middle" fill="#fffdf8" font-family="Georgia, 'Times New Roman', serif" font-size="76">Tejlmand</text>
+</svg>

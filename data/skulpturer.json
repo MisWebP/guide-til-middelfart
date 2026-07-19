@@ -36,38 +36,16 @@
     "billede": "images/Altings_Toeven_Per_Ahlmann_2017.jpeg",
     "maps_url": "https://maps.app.goo.gl/8hmEXx7BMGceXriw7?g_st=ic",
     "naeste_vaerk_tekst": "Gå op ad trappen og drej til venstre ad Kongebrovejen.",
-    "status": "publiceret",
+    "status": "kladde",
     "kilder": [
       "keramikruten.claymuseum.dk",
       "ramboll.com"
     ]
   },
   {
-    "id": "krukke",
-    "type": "artwork",
-    "nummer": 2,
-    "titel": "Krukke",
-    "kunstner": "Gunhild Rudjord",
-    "aar": 2017,
-    "placering": "Vestre kirkegård",
-    "lat": 55.507778,
-    "lng": 9.722306,
-    "introduktion": "Stoflig sanselighed",
-    "kig_op": "Har du opdaget den lille sti ned til Gl. Vestergade og den gamle havn?",
-    "historien_bag": "Krukke efterligner roen på kirkegården med sin majestætiske fremtoning, og hviler i sig selv uden at være anmassende. Det er i glasuren, at værket træder frem. Her er både noget genkendeligt og noget, der leder fantasien på vej, og bliver dermed ifølge kunstneren et billede på genopstandelsen. Værkets skaber norske Gunhild Rudjord mestrer arbejdet med de ofte ukontrollable glasurer til perfektion.",
-    "mit_tip": "Tag en lille omvej forbi Gl. Havns karakteriske røde værtsbygninger, hvor man har bygget smakkejoller og klinkbygning, der er klasificeret som Verdenskulturarv af UNESCO.",
-    "billede": "images/Krukke_Gunhild_Rudjord_2017.jpeg",
-    "maps_url": "https://www.google.com/maps/place/55°30'28.0%22N+9°43'20.3%22E/@55.5077778,9.7210181,18z/data=!3m1!4b1!4m4!3m3!8m2!3d55.5077778!4d9.7223056!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxNC4wIKXMDSoASAFQAw%3D%3D",
-    "naeste_vaerk_tekst": "Find lågen til Gl. Vestergade og fortsat gennem byens ældste kvarter til Sct. Nikolai Kirke",
-    "status": "publiceret",
-    "kilder": [
-      "keramikruten.claymuseum.dk"
-    ]
-  },
-  {
     "id": "rook-takes",
     "type": "artwork",
-    "nummer": 3,
+    "nummer": 2,
     "titel": "Rook takes Bishop",
     "kunstner": "Magne Furuholmen",
     "aar": 2017,
@@ -81,7 +59,7 @@
     "billede": "images/Rook_takes_Bishop_Magne_Furuholmen_2017.jpeg",
     "maps_url": "https://maps.app.goo.gl/HL87HiyHT45Kd46t8?g_st=ic",
     "naeste_vaerk_tekst": "Bevæg dig videre ad Algade mod Nytorv og Middelfart Rådhus",
-    "status": "publiceret",
+    "status": "kladde",
     "kilder": [
       "keramikruten.claymuseum.dk",
       "middelfartmuseum.dk"
@@ -90,7 +68,7 @@
   {
     "id": "skulptur-gruppe",
     "type": "artwork",
-    "nummer": 4,
+    "nummer": 3,
     "titel": "Skulpturgruppe",
     "kunstner": "Betty Engholm",
     "aar": 2000,
@@ -104,7 +82,7 @@
     "billede": "images/Skulpturgruppe_Betty_Engholm_2000.jpeg",
     "maps_url": "https://maps.app.goo.gl/nM9QiSpkNF1pz5Lb9?g_st=ic",
     "naeste_vaerk_tekst": "Gå gennem Nytorvs port til Havnegade og bevæg dig mod syd langs vandet.",
-    "status": "publiceret",
+    "status": "kladde",
     "kilder": [
       "keramikruten.claymuseum.dk",
       "5e-byg.dk"
@@ -113,7 +91,7 @@
   {
     "id": "livsnyderne",
     "type": "artwork",
-    "nummer": 5,
+    "nummer": 4,
     "titel": "Livsnyderne",
     "kunstner": "Betty Engholm",
     "aar": 2001,
@@ -123,13 +101,119 @@
     "introduktion": "Skal du op og sidde?",
     "kig_op": "I vandet omkring Middelfart boltrer en af Danmarks største bestande af hvaler sig; nemlig den lille, legesyge marsvin. Hold godt øje, så ser du sikkert en finne bryde vandoverfladen.",
     "historien_bag": "Betty Enghoms sanselighed i hendes værker kommer også til udtryk i dette værk, der hedder Livsnyderne. Det er som om, de to liggende figurer er smeltet sammen med bænken under dem, og hvem kan ikke relaterer til følelsen af at sommerferiens liggestol og ens krop bliver ét? Har du en favoritstol, der kan være svær at komme op ad en gangen imellem?",
-    "mit_tip": "Det er svært at vælge det bedste spisested - for smag og behag er forskellig. Guldkronen på Gl. Torv er specialister i den hyggelige atmosfære og dansk smørebrød, mens Cafe Razz er indbegrebet af traditionel cafemad. Længere nede ad Algade finder du skønne spisesteder som perler på en snor. Google Maps kan guide dig.",
+    "mit_tip": "Kig ud på vandoverfladen. Strømforholdene er helt unikke i Lillebælt. De går både mod syd og mod nord - og vender to gange i døgnet.",
     "billede": "images/Livsnyderne_Betty_Engholm_2001.jpeg",
     "maps_url": "https://maps.app.goo.gl/Wqa6YgPdz8Hgc7Zk9?g_st=ic",
-    "naeste_vaerk_tekst": "De sidste værker er i parken ved Clay Keramikmuseum",
-    "status": "publiceret",
+    "naeste_vaerk_tekst": "De sidste værker er i parken ved Clay Keramikmuseum. Gå langs vandet til Gl. Havn og videre forbi Lillebæltværftet, Smakkelauet og Dykkercentret.",
+    "status": "kladde",
     "kilder": [
       "keramikruten.claymuseum.dk"
     ]
+  },
+  {
+    "id": "krukke",
+    "type": "artwork",
+    "nummer": 5,
+    "titel": "Krukke",
+    "kunstner": "Gunhild Rudjord",
+    "aar": 2017,
+    "placering": "Vestre kirkegård",
+    "lat": 55.507778,
+    "lng": 9.722306,
+    "introduktion": "Sanselig og majestætisk",
+    "kig_op": "Trappen fører ned til havhaven Bælthaven, hvor en forening dyrker muslinger.",
+    "historien_bag": "Krukke efterligner roen på kirkegården med sin majestætiske fremtoning, og hviler i sig selv uden at være anmassende. Det er i glasuren, at værket træder frem. Her er både noget genkendeligt og noget, der leder fantasien på vej, og bliver dermed ifølge kunstneren et billede på genopstandelsen.",
+    "mit_tip": "Tag en lille omvej forbi Gl. Havns karakteriske røde værtsbygninger, hvor man har bygget smakkejoller og klinkbygning, der er klasificeret som Verdenskulturarv af UNESCO.",
+    "billede": "images/Krukke_Gunhild_Rudjord_2017.jpeg",
+    "maps_url": "https://www.google.com/maps/place/55°30'28.0%22N+9°43'20.3%22E/@55.5077778,9.7210181,18z/data=!3m1!4b1!4m4!3m3!8m2!3d55.5077778!4d9.7223056!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxNC4wIKXMDSoASAFQAw%3D%3D",
+    "naeste_vaerk_tekst": "Find lågen til Gl. Vestergade og fortsat gennem byens ældste kvarter til Sct. Nikolai Kirke",
+    "status": "kladde",
+    "kilder": [
+      "keramikruten.claymuseum.dk"
+    ]
+  },
+  {
+    "id": "spinehaspine",
+    "type": "artwork",
+    "nummer": 6,
+    "titel": "Spine has pine in it",
+    "kunstner": "Pernille Pontoppidan Pedersen",
+    "aar": 2017,
+    "placering": "Clays have",
+    "lat": 55.507651,
+    "lng": 9.721259,
+    "introduktion": "Fang mig hvis du kan",
+    "kig_op": "Clay Keramikmuseum har til huse i en historisk bygning, der blev opført 1856-57 i historicistisk stil",
+    "historien_bag": "Her er et værk, der er helt sin egen. Det river og flår i den beskuer, der søger mening, og tilbyder en legeplads for den, der går sine egne veje. Skaberen er Pernille Pontoppidan Pedersen, der helt bevidst har ladet fortolkningen være op til beskueren selv.",
+    "mit_tip": "Stien her mellem Clay og kirkegården forbinder museet med det maritime miljø langs vandet.",
+    "billede": "images/Spine_has_Pine_in_it_Pernielle_Pontoppidan_Pedersen_2017.jpeg",
+    "maps_url": "",
+    "naeste_vaerk_tekst": "Gå op ad trappen ind i Clays have",
+    "status": "kladde",
+    "kilder": [
+      "keramikruten.claymuseum.dk"
+    ]
+  },
+  {
+    "id": "uden_titel",
+    "type": "artwork",
+    "nummer": 7,
+    "titel": "Uden titel",
+    "kunstner": "Wanda Stehr",
+    "aar": 2003,
+    "placering": "Clays have",
+    "lat": 55.507586,
+    "lng": 9.721019,
+    "introduktion": "Perler på en snor",
+    "kig_op": "Clay blev oprindeligt bygget som enkesæde til den nærliggende  herregård Hindsgavl Slot",
+    "historien_bag": "Dette værk leder tankerne hen på perler og kreativtet, men også altings forbundethed og sågar på fiskebøjer i vandet og måners kredsløbsbaner. Tankerne sendes i alle retninger af dette værk Uden titel.",
+    "mit_tip": "I bygningen ved siden af dette værk holdes der jævnligt events for og med nulevende keramiske kunstnere og kunsthåndværkere.",
+    "billede": "images/Uden_titel_Wanda_Stehr_2003.jpeg",
+    "maps_url": "",
+    "naeste_vaerk_tekst": "Gå mod den sorte cafe-bygning i havens hjørne.",
+    "status": "kladde",
+    "kilder": [
+      "egne observationer"
+    ]
+  },
+  {
+    "id": "uden_titel_2",
+    "type": "artwork",
+    "nummer": 8,
+    "titel": "Uden titel II",
+    "kunstner": "Søren Thygesen",
+    "aar": 2017,
+    "placering": "Clays have",
+    "lat": 55.507748,
+    "lng": 9.720946,
+    "introduktion": "Boblende bule",
+    "kig_op": "Nu åbner haven sig for alvor op med sine mange skulpturer omkrandset af de hundredårige bøgetræer.",
+    "historien_bag": "Dette smukt svungne værk udfordrer vores gængse opfattelse af mursten som værende firkantede. Man kan nyde den geometriske form eller se bevægelsen op fra den flade firkantede.",
+    "mit_tip": "Hovedhuset med de tilhørende staldbygninger bliver fredet i 1993 som et velbevaret eksempel på noget af det allerførste danske villabyggeri.",
+    "billede": "images/Uden_titel_II_Soeren_Thygesen_2017.jpeg",
+    "maps_url": "",
+    "naeste_vaerk_tekst": "",
+    "status": "kladde",
+    "kilder": []
+  },
+  {
+    "id": "hjem",
+    "type": "artwork",
+    "nummer": 9,
+    "titel": "Hjem Kære Skov",
+    "kunstner": "Ane Davidsen og Lova Nyholm",
+    "aar": 2000,
+    "placering": "Clays have",
+    "lat": 55.507808,
+    "lng": 9.721016,
+    "introduktion": "Hvornår er du hjemme?",
+    "kig_op": "Tag et ekstra kig på den nærkliggende cafes vægge af rødbrune tegl.",
+    "historien_bag": "De unge keramikeres sofamøbler indbyder til hjemlig hygge og peger på vores forforståelser af begreber som Hjemme og Tryghed. Ane Davidsen og Lova Nyholm har fortalt, at de søgte at skabe et rum for forsoning. Særligt svenske Lova lod sig inspirere af dramatiske hændelser på Fyn under Svenskekrigene.",
+    "mit_tip": "Cafebygningen kaldes Pavallionen, og er en del af en tilbygning fra 2015 og udvidet i 2022. Begge gange under varm og hjertelig deltagelse af HM dronning Margrethe.",
+    "billede": "images/Hjem_kaare_Skov_Ane_Davidsen_Lova_Nyholm_2000.jpeg",
+    "maps_url": "",
+    "naeste_vaerk_tekst": "",
+    "status": "kladde",
+    "kilder": []
   }
 ]

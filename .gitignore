@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+
+# Local editorial source files
+*.xlsx
+~$*
+
+# Keep generated/public site files tracked, but not local editor noise.
